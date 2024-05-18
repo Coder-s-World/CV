@@ -1,0 +1,97 @@
+
+body{  
+    border: 2px solid black;
+    margin-top: 100%;
+    padding: 15px;
+    width: fit-content; 
+    margin-top:20px;
+    margin-bottom:20px;
+    margin-left:25%;
+}
+
+h1,h2{
+   text-transform: uppercase;
+   text-align: center;
+   word-spacing:2px ;
+   background-color:rgb(15, 38, 61) ;
+   color:rgb(206, 214, 222);
+   font-family: 'Calibri';
+}
+
+h1{
+  background-color: rgb(227, 178, 55);
+  color: brown;
+}
+
+ .table1 td, .table1 th{
+    border: 2px solid black;
+    padding-right: 22px;
+    padding-left: 30px;  
+}
+
+.icon{
+    text-align:center;
+}
+
+.Myimage{
+    width: 100%;
+    object-fit: cover;
+}
+
+.table2 td,.table2 th{
+    border: 2px solid black;
+    border-spacing: 5px;
+    text-align: center;
+    width: 220px;  
+}
+
+
+.table3 th, .table3 td{
+    text-align: center;
+    border: 2px solid black;
+    padding: 8px;
+}
+
+.table4 th, .table4 td{
+    border: 2px solid black;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: -50em;
+}
+
+.heading{
+    font-weight: bold;
+    font-size: larger;
+}
+
+.table6 td, .table6,.table7,.table7 td ,.table8 th, .table8 td,.table8{
+    border: 2px solid black; 
+    width: 100%;
+    font-family: 'calibri';
+    font-size: medium;
+    text-align: center;
+    list-style-position: inside;
+}
+
+.table1,.table2,.table7,.table5,.table3,.table4,.table8{
+    border: 2px solid black;  
+    margin-bottom: 20px; 
+}
+
+.table5 th, .table5 td{
+    border :2px solid black;
+    width: 170px;
+    text-align: center;
+    padding: 3px;
+    vertical-align: middle;
+}
+
+p{
+    font-size: larger;
+    font-family: 'calibri';
+}
+
+.right{
+    
+    word-spacing: 775px;
+}
